@@ -18,11 +18,11 @@ variable "instance_type" {
 }
 
 variable "aws_access_key" {
-  default = "AKIA4LBNQ4XXWUJSIERB"
+  default = ""
 }
 
 variable "aws_secret_key" {
-  default = "9vjDAZGeSZ7Lj69su//hFbGt9vYM0KocUZcDlTdo"
+  default = ""
 }
 
 variable "bucket_name" {
